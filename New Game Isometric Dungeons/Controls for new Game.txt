@@ -1,0 +1,73 @@
+   -sdmNds/..````../sdmmhs-   
+  -NNmdmNMNNNmmdmmNNMMN+oNN-  
+ `mMdddhNMMNNo--+NNMmymNNdym` 
+ yMMmhhmMNNNNdo+hNNNNNNyhNNMy 
+.NMMMNNMhyosdNMMMmhhdNNmmMMMN-
+sMMMMMMNsssssNNNmdhdhmNMMMMMMs
+dMMMNNNmdhyhddmmhysyydNNNMMMMd
+NNNmmddhys+/::::::/+shdmmNNNNN
+ddhhyys:.            ./yhddmmd
+:sso/-`                `-+syy-
+
+
+
+------------------------------
+Controls 
+------------------------------
+
+
+
+------------------------------
+Stick movement  
+------------------------------
+-Left stick 
+--WASD - Movement 
+
+-D- Pad 
+-- unassigned? possibly magic select?
+
+-Right stick
+Possible quick main attacks select
+
+
+------------------------------
+Trigger buttons 
+------------------------------
+
+-Left 1 Trigger 
+--Special Attack  / Magic
+
+-Left 2 Trigger 
+- Block / Shield 
+
+-Right 1 Trigger 
+-- Light 
+
+-Right 2 Trigger 
+-- Heavy 
+
+------------------------------
+Face buttons 
+------------------------------
+
+-Facebutton X 
+-  Magic / Kick / Pet attack? 
+
+-Facebutton Y
+-- Rest  
+
+-Facebutton A  
+-Range Attack
+
+-Facebutton B 
+-- Dash
+
+
+------------------------------
+Menu  buttons 
+------------------------------
+-- Start 
+- Pause 
+
+--Back
+-inventory  

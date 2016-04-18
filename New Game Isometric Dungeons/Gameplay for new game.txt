@@ -1,0 +1,153 @@
+==================================
+----- Game Play -----
+==================================
+What is truly bare minimalist? 
+What is our theme?
+What is our core game machanic that sets us a part? 
+How can the game be built around it.
+What makes a good dungeoning game? 
+	in legend of zelda...totally the puzzles, 
+		in Dark Souls...the Combat. 
+			In Nethack -  lots of Roles/ characters that you play
+				Slash em the freaking large amounts of content and loot
+					Phantasy Star - online dungeoning with friends
+					
+		
+
+
+==================================
+--Starting Game / Hero 
+==================================
+
+- No leveling up, only skill and found loot.
+- on New game Change starting equipment?  
+- Loot has a mysterious status? until inspected
+	can range from Legend (++ stats), good (+), Normal (0), Curropted  (-drains health), Horrendous (-10)
+	Pay to get inspected / pay to up scale same weapon
+- Weapons should have a special move
+-heavy, light equipment? 
+- Rest button(cant move, hp goes up)?
+- Spell, summoomn, 
+
+
+
+==================================
+--Enimies 
+==================================
+- Bosses
+bigger, larger, more damage
+Bigger screen shake 
+Bosses will have their own Cutscene! 
+locks you in Room? 
+May Randomly know Spells, Summons and Attacks
+	three version of the same boss (tinted color programmed in) 
+
+-Mid Boss
+Heavier 
+will spawn to you. 
+
+- Servents 
+fastest  
+
+
+- Challenge NPC? 
+
+
+
+
+
+
+
+==================================
+-- Death
+==================================
+-needs to be punishing. 
+   ie enemies gets stat boosts, loot is dropped, Delevel your equipment, Permanent death. Your remains become a ghost that has your equipment...
+
+- Continue or Exit (pussy out) ( game calls you names then exits). 
+
+= 
+
+
+==================================
+--Fighting 
+==================================
+- if full health hud hides for adventureing. If in battle it appears or taken damage or use of magic
+- if Zooms in and out depending if in battle.
+
+- Summons 
+- Magik
+
+- Recharging Life bar? 
+	-OR-
+- legend of zelda like hearts? you have to find?
+
+- Stand your ground! Ebereth  
+==================================
+Loot 
+==================================
+- Masks and skins 
+	- Recolor skins
+	- play as a different race
+	- Wings. 
+	- wearable skull 
+- Pets 
+	- buy able. 
+	- will die 
+	- can have 2 tops 
+	- can be used for summons
+	- Follow / Circle/ Infront / Run From back player. 
+
+- Pick up the dead? Feed them to pet? 
+
+==================================
+Traps 
+==================================
+- Dart trap
+- Fire trap 
+- Bear trap 
+- Bear scent trap / boulder trap
+- land mind and wire
+- Spears 
+- sleeping gas
+- Level transporter
+- Land mine 
+- Chest Trap
+- Trapped door...
+
+==================================
+Non- Traps 
+==================================
+- Fountain 
+- alter 
+- treasure chest
+-keys 
+- levers and switches. 
+- NPC  - Merchents
+
+==================================
+"Safe" point 
+==================================
+- basic basic basic map
+- inventory
+
+==================================
+Towns  
+==================================
+Trade/ buy / sell
+pick up quests 
+Cutscene.... 
+-picture of town in quest book. 
+
+
+
+
+
+
+
+
+
+
+
+
+

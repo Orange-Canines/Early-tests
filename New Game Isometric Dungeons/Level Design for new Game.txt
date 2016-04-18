@@ -1,0 +1,33 @@
+
+==================================
+-- Level design 
+==================================
+-Open world 
+
+- Do we actually need a map? or will having none give it a bigger adventure?
+
+- have to set up a check point by clearing an area....
+Rest/Heal, Inventory, Switch skins, NPC
+
+-interconnected dungeons
+
+- mid points , mid bosss  mid loot 
+
+-randomness wether randomly generated or not.
+
+- unattackable life 
+
+- Random events in dungeons Like randomly charging bear, or.....
+
+- Floors make the game feel deeper and scarier 
+
+-trapppps 
+
+- Hidden areas 
+
+- one hidden boss?
+
+- very few towns < 3 
+
+
+
