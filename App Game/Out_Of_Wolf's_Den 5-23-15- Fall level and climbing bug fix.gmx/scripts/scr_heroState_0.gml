@@ -10,6 +10,6 @@ if (global.keyRight) = 1 {
 image_xscale = facing;
 image_yscale = 1;  
     
-enable_movement_platform_actions(.25, myRunSpeed, 1+myjumpheight, global.keyRight, global.keyLeft, global.keyJump, global.keyJump);
+enable_movement_platform_actions(.25, myRunSpeed, 2+myjumpheight, global.keyRight, global.keyLeft, global.keyJump, global.keyJumpR);
 set_movement_gravity(.5);
 move_movement_entity_hero(); 

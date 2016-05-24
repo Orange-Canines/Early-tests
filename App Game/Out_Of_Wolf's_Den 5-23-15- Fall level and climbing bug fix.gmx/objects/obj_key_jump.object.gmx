@@ -33,13 +33,27 @@ if instance_exists(obj_hero){
     x= view_xview[0] +230;  
     y= view_yview[0] +120; 
 } 
-//if (distance_to_point(mouse_x,mouse_y)&lt;=0){
-with (obj_hero){
-     global.jump_key_vert = virtual_key_add(0,0,30,30, vk_space)
-      global.jumpr_key_vert = virtual_key_add(0,0,30,30, vk_space)
-   }
-//}
-    
+
+ if ( mouse_check_button_pressed (mb_left) ==1 ) {
+ 
+ global.jump_key_vert = 1;
+ global.jumpr_key_vert = 0;
+ }
+ else {
+    if ( mouse_check_button_released (mb_left) ==1 ) {
+     global.jump_key_vert = 0;
+     global.jumpr_key_vert = 1;
+     }
+    else {
+       global.jump_key_vert = 0;
+     global.jumpr_key_vert = 0;
+     } 
+ }  
+
+   //  global.jump_key_vert = virtual_key_add(0,0,30,30, vk_space)
+    ///  global.jumpr_key_vert = !virtual_key_add(0,0,30,30, vk_space)
+
+
     
     
 </string>
@@ -92,7 +106,8 @@ else   global.jumpr_key_vert =1;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>global.jumpr_key_vert =1; 
+            <string>global.jump_key_vert = 0;
+global.jumpr_key_vert = 1;
 </string>
           </argument>
         </arguments>
@@ -115,8 +130,10 @@ else   global.jumpr_key_vert =1;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>    global.jump_key_vert = 1;
-      global.jumpr_key_vert = 0;
+            <string> //   global.jump_key_vert = 1;
+  //    global.jumpr_key_vert = 0;
+  
+
 </string>
           </argument>
         </arguments>

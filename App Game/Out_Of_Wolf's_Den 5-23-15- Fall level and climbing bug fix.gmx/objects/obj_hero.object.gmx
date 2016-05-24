@@ -55,6 +55,8 @@ global.jump_key_vert = 0;
 global.ability1_key_vert = 0;
 global.ability2_key_vert = 0;
 global.jumpr_key_vert =0;
+instance_create(x,y, obj_score);
+instance_create(x,y, obj_hud);
 </string>
           </argument>
         </arguments>
@@ -411,6 +413,7 @@ draw_text(100,200, global.keyRight)
 draw_text(100,300, global.keyUp)
 draw_text(100,400, global.keyDown)
 draw_text(100,500, global.keyJump)
+draw_text(100,550,  global.keyJumpR )
 draw_text(100,600,  global.keyRun )
 draw_text(100,700, global.keyFlip )
 
@@ -419,6 +422,7 @@ draw_text(200,200, "global.keyRight")
 draw_text(200,300, "global.keyUp")
 draw_text(200,400, "global.keyDown")
 draw_text(200,500, "global.keyJump")
+draw_text(200,550,  "global.keyJumpR" )
 draw_text(200,600,  "global.keyRun" )
 draw_text(200,700, "global.keyFlip" )
 </string>

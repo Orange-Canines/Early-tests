@@ -10,7 +10,7 @@
     
     /// this has an error with virtual keys? 
     global.keyJump = keyboard_check_pressed(vk_space) or   global.jump_key_vert
-    global.keyJumpR = keyboard_check_released(vk_space)or   global.jumpr_key_vert;
+    global.keyJumpR = keyboard_check_pressed(vk_space)or   global.jumpr_key_vert;
     
     
     global.keyRun = keyboard_check(vk_rcontrol) or global.ability1_key_vert;
