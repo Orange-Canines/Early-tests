@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: 451b32f2f82d87943b255c69573be09b
+timeCreated: 1469893744
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Run_wait_01_0
+    21300002: Run_wait_01_1
+    21300004: Run_wait_01_2
+    21300006: Run_wait_01_3
+    21300008: Run_wait_01_4
+    21300010: Run_wait_01_5
+    21300012: Run_wait_01_6
+    21300014: Run_wait_01_7
+    21300016: Run_wait_01_8
+    21300018: Run_wait_01_9
+    21300020: Run_wait_01_10
+    21300022: Run_wait_01_11
+    21300024: Run_wait_01_12
+    21300026: Run_wait_01_13
+    21300028: Run_wait_01_14
+    21300030: Run_wait_01_15
+    21300032: Run_wait_01_16
+    21300034: Run_wait_01_17
+    21300036: Run_wait_01_18
+    21300038: Run_wait_01_19
+    21300040: Run_wait_01_20
+    21300042: Run_wait_01_21
+    21300044: Run_wait_01_22
+    21300046: Run_wait_01_23
+    21300048: R1
+    21300050: R2
+    21300052: R3
+    21300054: R4
+    21300056: R5
+    21300058: R6
+    21300060: R7
+    21300062: R8
+    21300064: Run_wait_01_32
+    21300066: Run_wait_01_33
+    21300068: Run_wait_01_34
+    21300070: Run_wait_01_35
+    21300072: Run_wait_01_36
+    21300074: Run_wait_01_37
+    21300076: Run_wait_01_38
+    21300078: Run_wait_01_39
+    21300080: L1
+    21300082: L2
+    21300084: L3
+    21300086: L4
+    21300088: L5
+    21300090: L6
+    21300092: L7
+    21300094: L8
+    21300096: Run_wait_01_24
+    21300098: Run_wait_01_25
+    21300100: Run_wait_01_26
+    21300102: Run_wait_01_27
+    21300104: Run_wait_01_28
+    21300106: Run_wait_01_29
+    21300108: Run_wait_01_30
+    21300110: Run_wait_01_31
+    21300112: Run_wait_01_40
+    21300114: Run_wait_01_41
+    21300116: Run_wait_01_42
+    21300118: Run_wait_01_43
+    21300120: Run_wait_01_44
+    21300122: Run_wait_01_45
+    21300124: Run_wait_01_46
+    21300126: Run_wait_01_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Run_wait_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 5}
+        - {x: -10, y: 4}
+        - {x: -10, y: -26}
+        - {x: -8, y: -32}
+        - {x: 9, y: -32}
+        - {x: 9, y: 5}
+    - name: Run_wait_01_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 4}
+        - {x: -8, y: -27}
+        - {x: -4, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -28}
+        - {x: 11, y: -5}
+        - {x: 9, y: 4}
+    - name: Run_wait_01_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 4}
+        - {x: -8, y: 3}
+        - {x: -9, y: -5}
+        - {x: -9, y: -21}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 4}
+    - name: Run_wait_01_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -9, y: 4}
+        - {x: -9, y: -26}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 5}
+    - name: Run_wait_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -9, y: 4}
+        - {x: -11, y: -6}
+        - {x: -11, y: -24}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 9, y: 5}
+    - name: Run_wait_01_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 4}
+        - {x: -8, y: 3}
+        - {x: -10, y: -12}
+        - {x: -10, y: -23}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -24}
+        - {x: 10, y: -4}
+        - {x: 9, y: 4}
+    - name: Run_wait_01_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 4}
+        - {x: -9, y: 4}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -27}
+        - {x: 11, y: -18}
+        - {x: 11, y: 3}
+    - name: Run_wait_01_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 5}
+        - {x: -8, y: 4}
+        - {x: -10, y: -6}
+        - {x: -10, y: -24}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 5}
+    - name: Run_wait_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 5}
+        - {x: -7, y: 5}
+        - {x: -10, y: 3}
+        - {x: -10, y: -28}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 2}
+        - {x: 9, y: 4}
+    - name: Run_wait_01_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 3}
+        - {x: 5, y: 4}
+        - {x: -9, y: 4}
+        - {x: -10, y: 3}
+        - {x: -10, y: -28}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: -11}
+    - name: Run_wait_01_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: -8, y: 4}
+        - {x: -9, y: 3}
+        - {x: -9, y: -29}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 0}
+        - {x: 10, y: 3}
+    - name: Run_wait_01_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 5}
+        - {x: -5, y: 5}
+        - {x: -8, y: 3}
+        - {x: -8, y: -30}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 2}
+        - {x: 11, y: 4}
+    - name: Run_wait_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 5}
+        - {x: -7, y: 3}
+        - {x: -8, y: -5}
+        - {x: -8, y: -30}
+        - {x: -6, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -26}
+        - {x: 11, y: 4}
+        - {x: 8, y: 5}
+    - name: Run_wait_01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 4}
+        - {x: -7, y: 4}
+        - {x: -8, y: 2}
+        - {x: -9, y: -7}
+        - {x: -9, y: -30}
+        - {x: -7, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -23}
+        - {x: 10, y: -1}
+        - {x: 9, y: 3}
+    - name: Run_wait_01_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: -5, y: 4}
+        - {x: -6, y: 1}
+        - {x: -7, y: -9}
+        - {x: -8, y: -21}
+        - {x: -6, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -19}
+        - {x: 11, y: -2}
+        - {x: 10, y: 3}
+    - name: Run_wait_01_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 5}
+        - {x: -9, y: -11}
+        - {x: -9, y: -25}
+        - {x: -7, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -26}
+        - {x: 10, y: 4}
+        - {x: 8, y: 5}
+    - name: Run_wait_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 5}
+        - {x: -3, y: 5}
+        - {x: -8, y: 4}
+        - {x: -8, y: -23}
+        - {x: -5, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -26}
+        - {x: 10, y: -6}
+        - {x: 8, y: 2}
+    - name: Run_wait_01_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -8, y: 4}
+        - {x: -8, y: -23}
+        - {x: -5, y: -32}
+        - {x: 4, y: -32}
+        - {x: 10, y: -30}
+        - {x: 10, y: 4}
+        - {x: 9, y: 5}
+    - name: Run_wait_01_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 4}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 9, y: -31}
+        - {x: 9, y: 4}
+    - name: Run_wait_01_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 5}
+        - {x: -8, y: 4}
+        - {x: -8, y: -25}
+        - {x: -4, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 4}
+        - {x: 9, y: 5}
+    - name: Run_wait_01_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -25}
+        - {x: -7, y: -31}
+        - {x: -5, y: -32}
+        - {x: 7, y: -32}
+        - {x: 8, y: -27}
+        - {x: 8, y: -4}
+        - {x: 6, y: 5}
+    - name: Run_wait_01_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 4}
+        - {x: -8, y: -31}
+        - {x: -7, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 4}
+    - name: Run_wait_01_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 4}
+        - {x: -8, y: 3}
+        - {x: -8, y: -25}
+        - {x: -7, y: -29}
+        - {x: 1, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 10, y: 3}
+        - {x: 9, y: 4}
+    - name: Run_wait_01_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 4}
+        - {x: -10, y: 2}
+        - {x: -11, y: -10}
+        - {x: -11, y: -28}
+        - {x: -9, y: -32}
+        - {x: 6, y: -32}
+        - {x: 7, y: -26}
+        - {x: 7, y: 3}
+        - {x: 3, y: 4}
+    - name: Run_wait_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 6}
+        - {x: -4, y: 4}
+        - {x: -12, y: -16}
+        - {x: -12, y: -25}
+        - {x: -8, y: -29}
+        - {x: -6, y: -30}
+        - {x: 8, y: -30}
+        - {x: 11, y: -26}
+        - {x: 11, y: 5}
+        - {x: 9, y: 6}
+    - name: Run_wait_01_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 3}
+        - {x: -12, y: -12}
+        - {x: -12, y: -31}
+        - {x: -11, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -26}
+        - {x: 10, y: 0}
+        - {x: 7, y: 3}
+    - name: Run_wait_01_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 3}
+        - {x: -7, y: 1}
+        - {x: -12, y: -17}
+        - {x: -12, y: -29}
+        - {x: -5, y: -32}
+        - {x: 7, y: -32}
+        - {x: 8, y: -27}
+        - {x: 10, y: -11}
+        - {x: 10, y: 3}
+    - name: Run_wait_01_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 5}
+        - {x: -12, y: -10}
+        - {x: -12, y: -24}
+        - {x: -6, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -18}
+        - {x: 10, y: 4}
+        - {x: 7, y: 5}
+    - name: Run_wait_01_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 7}
+        - {x: -2, y: 7}
+        - {x: -10, y: -7}
+        - {x: -10, y: -20}
+        - {x: 1, y: -31}
+        - {x: 4, y: -30}
+        - {x: 8, y: -25}
+        - {x: 11, y: -4}
+        - {x: 11, y: 6}
+    - name: Run_wait_01_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 5}
+        - {x: -10, y: -9}
+        - {x: -10, y: -22}
+        - {x: -1, y: -32}
+        - {x: 3, y: -32}
+        - {x: 8, y: -30}
+        - {x: 11, y: -6}
+        - {x: 11, y: 4}
+        - {x: 8, y: 5}
+    - name: Run_wait_01_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -13}
+        - {x: -12, y: -26}
+        - {x: -5, y: -32}
+        - {x: 0, y: -32}
+        - {x: 8, y: -21}
+        - {x: 8, y: 4}
+        - {x: -9, y: 4}
+    - name: Run_wait_01_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 6}
+        - {x: -11, y: -6}
+        - {x: -11, y: -27}
+        - {x: -6, y: -32}
+        - {x: 0, y: -32}
+        - {x: 8, y: -26}
+        - {x: 10, y: -21}
+        - {x: 10, y: 6}
+    - name: Run_wait_01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 7}
+        - {x: -7, y: 7}
+        - {x: -8, y: 4}
+        - {x: -10, y: -14}
+        - {x: -9, y: -26}
+        - {x: -8, y: -30}
+        - {x: -6, y: -32}
+        - {x: 6, y: -32}
+        - {x: 9, y: -24}
+        - {x: 9, y: 4}
+        - {x: 8, y: 6}
+    - name: Run_wait_01_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 7}
+        - {x: -5, y: 7}
+        - {x: -8, y: -2}
+        - {x: -8, y: -28}
+        - {x: -7, y: -31}
+        - {x: 7, y: -31}
+        - {x: 11, y: -28}
+        - {x: 11, y: 3}
+        - {x: 10, y: 6}
+    - name: Run_wait_01_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 6}
+        - {x: -7, y: -5}
+        - {x: -7, y: -31}
+        - {x: -5, y: -32}
+        - {x: 3, y: -32}
+        - {x: 7, y: -30}
+        - {x: 12, y: -25}
+        - {x: 12, y: 6}
+    - name: Run_wait_01_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 7}
+        - {x: -6, y: 7}
+        - {x: -8, y: -9}
+        - {x: -8, y: -21}
+        - {x: -7, y: -26}
+        - {x: -4, y: -29}
+        - {x: -3, y: -29}
+        - {x: 4, y: -31}
+        - {x: 8, y: -30}
+        - {x: 11, y: -21}
+        - {x: 11, y: 2}
+        - {x: 10, y: 6}
+    - name: Run_wait_01_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -29}
+        - {x: -6, y: -30}
+        - {x: 2, y: -31}
+        - {x: 9, y: -31}
+        - {x: 10, y: -25}
+        - {x: 10, y: 7}
+        - {x: 8, y: 8}
+    - name: Run_wait_01_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 6}
+        - {x: -8, y: 1}
+        - {x: -8, y: -31}
+        - {x: -5, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 6}
+    - name: Run_wait_01_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 6}
+        - {x: -8, y: -11}
+        - {x: -8, y: -29}
+        - {x: -3, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: 6}
+    - name: Run_wait_01_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 7}
+        - {x: -8, y: -6}
+        - {x: -8, y: -22}
+        - {x: -6, y: -31}
+        - {x: -4, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -26}
+        - {x: 10, y: 6}
+        - {x: 7, y: 7}
+    - name: Run_wait_01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 6}
+        - {x: -10, y: 6}
+        - {x: -11, y: 3}
+        - {x: -11, y: -12}
+        - {x: -7, y: -30}
+        - {x: 5, y: -30}
+        - {x: 8, y: -29}
+        - {x: 12, y: -25}
+        - {x: 12, y: -21}
+        - {x: 5, y: 5}
+    - name: Run_wait_01_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 5}
+        - {x: -8, y: 5}
+        - {x: -11, y: 4}
+        - {x: -11, y: -16}
+        - {x: -9, y: -25}
+        - {x: -6, y: -31}
+        - {x: -2, y: -31}
+        - {x: 7, y: -29}
+        - {x: 11, y: -25}
+        - {x: 11, y: -19}
+        - {x: 4, y: 3}
+    - name: Run_wait_01_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -8, y: 6}
+        - {x: -9, y: 3}
+        - {x: -9, y: -5}
+        - {x: -8, y: -7}
+        - {x: -8, y: -24}
+        - {x: -5, y: -31}
+        - {x: 7, y: -31}
+        - {x: 12, y: -25}
+        - {x: 12, y: -8}
+        - {x: 7, y: 5}
+    - name: Run_wait_01_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 5}
+        - {x: -8, y: 5}
+        - {x: -8, y: -13}
+        - {x: -4, y: -32}
+        - {x: 4, y: -32}
+        - {x: 7, y: -31}
+        - {x: 12, y: -24}
+        - {x: 12, y: -18}
+        - {x: 8, y: 4}
+    - name: Run_wait_01_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -11}
+        - {x: -4, y: -26}
+        - {x: 0, y: -32}
+        - {x: 2, y: -32}
+        - {x: 12, y: -23}
+        - {x: 12, y: -17}
+        - {x: 8, y: 5}
+        - {x: 5, y: 6}
+        - {x: -8, y: 6}
+    - name: Run_wait_01_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 5}
+        - {x: -8, y: -12}
+        - {x: -5, y: -30}
+        - {x: -2, y: -32}
+        - {x: 2, y: -32}
+        - {x: 12, y: -24}
+        - {x: 12, y: -14}
+        - {x: 8, y: 4}
+        - {x: 5, y: 5}
+    - name: Run_wait_01_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 4}
+        - {x: -7, y: 4}
+        - {x: -8, y: 1}
+        - {x: -8, y: -16}
+        - {x: -1, y: -32}
+        - {x: 5, y: -32}
+        - {x: 12, y: -25}
+        - {x: 12, y: -17}
+        - {x: 8, y: 3}
+    - name: Run_wait_01_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 6}
+        - {x: -8, y: -18}
+        - {x: -7, y: -27}
+        - {x: -1, y: -32}
+        - {x: 5, y: -32}
+        - {x: 12, y: -25}
+        - {x: 12, y: -10}
+        - {x: 8, y: 5}
+        - {x: 5, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

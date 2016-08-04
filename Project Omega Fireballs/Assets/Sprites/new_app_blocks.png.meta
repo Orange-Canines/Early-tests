@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: e11548a7fcb635e49ba0006a81d1f100
+timeCreated: 1469707776
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: new_app_blocks_0
+    21300002: new_app_blocks_1
+    21300004: new_app_blocks_2
+    21300006: new_app_blocks_3
+    21300008: new_app_blocks_4
+    21300010: new_app_blocks_5
+    21300012: new_app_blocks_6
+    21300014: new_app_blocks_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: new_app_blocks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: new_app_blocks_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 868
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: new_app_blocks_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 884
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: new_app_blocks_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 710
+        width: 133
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 95}
+        - {x: -66.5, y: 31}
+        - {x: -66.5, y: -28}
+        - {x: -21.5, y: -95}
+        - {x: 26.5, y: -95}
+        - {x: 66.5, y: -38}
+        - {x: 66.5, y: 41}
+        - {x: 24.5, y: 95}
+    - name: new_app_blocks_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 48
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 88}
+        - {x: -24, y: -88}
+        - {x: 24, y: -88}
+        - {x: 24, y: 88}
+    - name: new_app_blocks_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 836
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: new_app_blocks_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 644
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: new_app_blocks_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 500
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
