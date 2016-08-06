@@ -1,0 +1,2728 @@
+fileFormatVersion: 2
+guid: ee1346e62e863fc4eac20f08328d1634
+timeCreated: 1470341429
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lvl_Jade_Lands_0
+    21300002: Lvl_Jade_Lands_1
+    21300004: Lvl_Jade_Lands_2
+    21300006: Lvl_Jade_Lands_3
+    21300008: Lvl_Jade_Lands_4
+    21300010: Lvl_Jade_Lands_5
+    21300012: Lvl_Jade_Lands_6
+    21300014: Lvl_Jade_Lands_7
+    21300016: Lvl_Jade_Lands_8
+    21300018: Lvl_Jade_Lands_9
+    21300020: Lvl_Jade_Lands_10
+    21300022: Lvl_Jade_Lands_11
+    21300024: Lvl_Jade_Lands_12
+    21300026: Lvl_Jade_Lands_13
+    21300028: Lvl_Jade_Lands_14
+    21300030: Lvl_Jade_Lands_15
+    21300032: Lvl_Jade_Lands_16
+    21300034: Lvl_Jade_Lands_17
+    21300036: Lvl_Jade_Lands_18
+    21300038: Lvl_Jade_Lands_19
+    21300040: Lvl_Jade_Lands_20
+    21300042: Lvl_Jade_Lands_21
+    21300044: Lvl_Jade_Lands_22
+    21300046: Lvl_Jade_Lands_23
+    21300048: Lvl_Jade_Lands_24
+    21300050: Lvl_Jade_Lands_25
+    21300052: Lvl_Jade_Lands_26
+    21300054: Lvl_Jade_Lands_27
+    21300056: Lvl_Jade_Lands_28
+    21300058: Lvl_Jade_Lands_29
+    21300060: Lvl_Jade_Lands_30
+    21300062: Lvl_Jade_Lands_31
+    21300064: Lvl_Jade_Lands_32
+    21300066: Lvl_Jade_Lands_33
+    21300068: Lvl_Jade_Lands_34
+    21300070: Lvl_Jade_Lands_35
+    21300072: Lvl_Jade_Lands_36
+    21300074: Lvl_Jade_Lands_37
+    21300076: Lvl_Jade_Lands_38
+    21300078: Lvl_Jade_Lands_39
+    21300080: Lvl_Jade_Lands_40
+    21300082: Lvl_Jade_Lands_41
+    21300084: Lvl_Jade_Lands_42
+    21300086: Lvl_Jade_Lands_43
+    21300088: Lvl_Jade_Lands_44
+    21300090: Lvl_Jade_Lands_45
+    21300092: Lvl_Jade_Lands_46
+    21300094: Lvl_Jade_Lands_47
+    21300096: Lvl_Jade_Lands_48
+    21300098: Lvl_Jade_Lands_49
+    21300100: Lvl_Jade_Lands_50
+    21300102: Lvl_Jade_Lands_51
+    21300104: Lvl_Jade_Lands_52
+    21300106: Lvl_Jade_Lands_53
+    21300108: Lvl_Jade_Lands_54
+    21300110: Lvl_Jade_Lands_55
+    21300112: Lvl_Jade_Lands_56
+    21300114: Lvl_Jade_Lands_57
+    21300116: Lvl_Jade_Lands_58
+    21300118: Lvl_Jade_Lands_59
+    21300120: Lvl_Jade_Lands_60
+    21300122: Lvl_Jade_Lands_61
+    21300124: Lvl_Jade_Lands_62
+    21300126: Lvl_Jade_Lands_63
+    21300128: Lvl_Jade_Lands_64
+    21300130: Lvl_Jade_Lands_65
+    21300132: Lvl_Jade_Lands_66
+    21300134: Lvl_Jade_Lands_67
+    21300136: Lvl_Jade_Lands_68
+    21300138: Lvl_Jade_Lands_69
+    21300140: Lvl_Jade_Lands_70
+    21300142: Lvl_Jade_Lands_71
+    21300144: Lvl_Jade_Lands_72
+    21300146: Lvl_Jade_Lands_73
+    21300148: Lvl_Jade_Lands_74
+    21300150: Lvl_Jade_Lands_75
+    21300152: Lvl_Jade_Lands_76
+    21300154: Lvl_Jade_Lands_77
+    21300156: Lvl_Jade_Lands_78
+    21300158: Lvl_Jade_Lands_79
+    21300160: Lvl_Jade_Lands_80
+    21300162: Lvl_Jade_Lands_81
+    21300164: Lvl_Jade_Lands_82
+    21300166: Lvl_Jade_Lands_83
+    21300168: Lvl_Jade_Lands_84
+    21300170: Lvl_Jade_Lands_85
+    21300172: Lvl_Jade_Lands_86
+    21300174: Lvl_Jade_Lands_87
+    21300176: Lvl_Jade_Lands_88
+    21300178: Lvl_Jade_Lands_89
+    21300180: Lvl_Jade_Lands_90
+    21300182: Lvl_Jade_Lands_91
+    21300184: Lvl_Jade_Lands_92
+    21300186: Lvl_Jade_Lands_93
+    21300188: Lvl_Jade_Lands_94
+    21300190: Lvl_Jade_Lands_95
+    21300192: Lvl_Jade_Lands_96
+    21300194: Lvl_Jade_Lands_97
+    21300196: Lvl_Jade_Lands_98
+    21300198: Lvl_Jade_Lands_99
+    21300200: Lvl_Jade_Lands_100
+    21300202: Lvl_Jade_Lands_101
+    21300204: Lvl_Jade_Lands_102
+    21300206: Lvl_Jade_Lands_103
+    21300208: Lvl_Jade_Lands_104
+    21300210: Lvl_Jade_Lands_105
+    21300212: Lvl_Jade_Lands_106
+    21300214: Lvl_Jade_Lands_107
+    21300216: Lvl_Jade_Lands_108
+    21300218: Lvl_Jade_Lands_109
+    21300220: Lvl_Jade_Lands_110
+    21300222: Lvl_Jade_Lands_111
+    21300224: Lvl_Jade_Lands_112
+    21300226: Lvl_Jade_Lands_113
+    21300228: Lvl_Jade_Lands_114
+    21300230: Lvl_Jade_Lands_115
+    21300232: Lvl_Jade_Lands_116
+    21300234: Lvl_Jade_Lands_117
+    21300236: Lvl_Jade_Lands_118
+    21300238: Lvl_Jade_Lands_119
+    21300240: Lvl_Jade_Lands_120
+    21300242: Lvl_Jade_Lands_121
+    21300244: Lvl_Jade_Lands_122
+    21300246: Lvl_Jade_Lands_123
+    21300248: Lvl_Jade_Lands_124
+    21300250: Lvl_Jade_Lands_125
+    21300252: Lvl_Jade_Lands_126
+    21300254: Lvl_Jade_Lands_127
+    21300256: Lvl_Jade_Lands_128
+    21300258: Lvl_Jade_Lands_129
+    21300260: Lvl_Jade_Lands_130
+    21300262: Lvl_Jade_Lands_131
+    21300264: Lvl_Jade_Lands_132
+    21300266: Lvl_Jade_Lands_133
+    21300268: Lvl_Jade_Lands_134
+    21300270: Lvl_Jade_Lands_135
+    21300272: Lvl_Jade_Lands_136
+    21300274: Lvl_Jade_Lands_137
+    21300276: Lvl_Jade_Lands_138
+    21300278: Lvl_Jade_Lands_139
+    21300280: Lvl_Jade_Lands_140
+    21300282: Lvl_Jade_Lands_141
+    21300284: Lvl_Jade_Lands_142
+    21300286: Lvl_Jade_Lands_143
+    21300288: Lvl_Jade_Lands_144
+    21300290: Lvl_Jade_Lands_145
+    21300292: Lvl_Jade_Lands_146
+    21300294: Lvl_Jade_Lands_147
+    21300296: Lvl_Jade_Lands_148
+    21300298: Lvl_Jade_Lands_149
+    21300300: Lvl_Jade_Lands_150
+    21300302: Lvl_Jade_Lands_151
+    21300304: Lvl_Jade_Lands_152
+    21300306: Lvl_Jade_Lands_153
+    21300308: Lvl_Jade_Lands_154
+    21300310: Lvl_Jade_Lands_155
+    21300312: Lvl_Jade_Lands_156
+    21300314: Lvl_Jade_Lands_157
+    21300316: Lvl_Jade_Lands_158
+    21300318: Lvl_Jade_Lands_159
+    21300320: Lvl_Jade_Lands_160
+    21300322: Lvl_Jade_Lands_161
+    21300324: Lvl_Jade_Lands_162
+    21300326: Lvl_Jade_Lands_163
+    21300328: Lvl_Jade_Lands_164
+    21300330: Lvl_Jade_Lands_165
+    21300332: Lvl_Jade_Lands_166
+    21300334: Lvl_Jade_Lands_167
+    21300336: Lvl_Jade_Lands_168
+    21300338: Lvl_Jade_Lands_169
+    21300340: Lvl_Jade_Lands_170
+    21300342: Lvl_Jade_Lands_171
+    21300344: Lvl_Jade_Lands_172
+    21300346: Lvl_Jade_Lands_173
+    21300348: Lvl_Jade_Lands_174
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lvl_Jade_Lands_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2239
+        width: 193
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 69.6134}
+        - {x: -82.5, y: -68.3866}
+        - {x: 82.5, y: -68.3866}
+        - {x: 82.5, y: 69.6134}
+    - name: Lvl_Jade_Lands_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2242
+        width: 33
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_2
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2367
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2014
+        width: 255
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.599976, y: 165.6134}
+        - {x: -84.599976, y: -2.3865967}
+        - {x: -107.599976, y: -2.3865967}
+        - {x: -108.599976, y: -3.3865967}
+        - {x: -108.599976, y: -32.386597}
+        - {x: -107.599976, y: -33.386597}
+        - {x: -84.599976, y: -33.386597}
+        - {x: -84.599976, y: -123.3866}
+        - {x: -86.599976, y: -120.3866}
+        - {x: -87.599976, y: -118.3866}
+        - {x: -98.599976, y: -118.3866}
+        - {x: -99.599976, y: -119.3866}
+        - {x: -105.599976, y: -119.3866}
+        - {x: -107.599976, y: -121.3866}
+        - {x: -107.599976, y: -129.3866}
+        - {x: -108.599976, y: -130.3866}
+        - {x: -108.599976, y: -159.3866}
+        - {x: -107.599976, y: -160.3866}
+        - {x: -78.599976, y: -160.3866}
+        - {x: -78.599976, y: -163.3866}
+        - {x: -77.599976, y: -164.3866}
+        - {x: 109.400024, y: -164.3866}
+        - {x: 109.400024, y: 165.6134}
+    - name: Lvl_Jade_Lands_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2271
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2351
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2350
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_7
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2349
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2207
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.206665, y: 57.806763}
+        - {x: -40.206665, y: -57.193237}
+        - {x: 40.793335, y: -57.193237}
+        - {x: 40.793335, y: 57.806763}
+    - name: Lvl_Jade_Lands_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2335
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2335
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2335
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2335
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2335
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_15
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2271
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.926636, y: 29.420044}
+        - {x: -24.926636, y: 9.420044}
+        - {x: -24.926636, y: -2.579956}
+        - {x: -22.926636, y: -5.579956}
+        - {x: -15.926636, y: -7.579956}
+        - {x: -2.9266357, y: -20.579956}
+        - {x: -4.9266357, y: -24.579956}
+        - {x: -4.9266357, y: -26.579956}
+        - {x: -3.9266357, y: -27.579956}
+        - {x: 15.073364, y: -27.579956}
+        - {x: 26.073364, y: -8.579956}
+        - {x: 26.073364, y: 16.420044}
+        - {x: 21.073364, y: 29.420044}
+    - name: Lvl_Jade_Lands_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2174
+        width: 98
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.71997, y: 65.14673}
+        - {x: -41.71997, y: -64.85327}
+        - {x: 42.28003, y: -64.85327}
+        - {x: 42.28003, y: 65.14673}
+    - name: Lvl_Jade_Lands_17
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2323
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_18
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2322
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2174
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.186646, y: 58.64673}
+        - {x: -41.186646, y: -58.35327}
+        - {x: 36.813354, y: -58.35327}
+        - {x: 42.813354, y: -36.35327}
+        - {x: 42.813354, y: 58.64673}
+    - name: Lvl_Jade_Lands_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2307
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_21
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2307
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2256
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_23
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2272
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_24
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2271
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2272
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_26
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2272
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_27
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2275
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2050
+        width: 74
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 68.833374}
+        - {x: -32, y: -68.166626}
+        - {x: 32, y: -68.166626}
+        - {x: 32, y: 68.833374}
+    - name: Lvl_Jade_Lands_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2174
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.993347, y: 34.64673}
+        - {x: -27.993347, y: -34.35327}
+        - {x: 29.006653, y: -34.35327}
+        - {x: 29.006653, y: 34.64673}
+    - name: Lvl_Jade_Lands_30
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2174
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2174
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_32
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2174
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_33
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2174
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_34
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2207
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2174
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_36
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2111
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_37
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2143
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_38
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2119
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.6466675, y: 21.713379}
+        - {x: -20.646667, y: 14.713379}
+        - {x: -20.646667, y: -15.286621}
+        - {x: -17.646667, y: -21.286621}
+        - {x: 17.353333, y: -21.286621}
+        - {x: 22.353333, y: -18.286621}
+        - {x: 22.353333, y: 14.713379}
+        - {x: 19.353333, y: 21.713379}
+    - name: Lvl_Jade_Lands_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2047
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.933334, y: 42.273315}
+        - {x: -41.933334, y: -40.726685}
+        - {x: 42.066666, y: -40.726685}
+        - {x: 42.066666, y: 42.273315}
+    - name: Lvl_Jade_Lands_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2111
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2097
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.206665, y: 17.940063}
+        - {x: -35.206665, y: 4.9400635}
+        - {x: -35.206665, y: -17.059937}
+        - {x: 27.793335, y: -17.059937}
+        - {x: 35.793335, y: 2.9400635}
+        - {x: 35.793335, y: 11.940063}
+        - {x: 27.793335, y: 17.940063}
+    - name: Lvl_Jade_Lands_42
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1935
+        width: 35
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2110
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_45
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2084
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_46
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1871
+        width: 56
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0999756, y: 90.58667}
+        - {x: -24.099976, y: -25.41333}
+        - {x: -24.099976, y: -87.41333}
+        - {x: -19.099976, y: -89.41333}
+        - {x: 24.900024, y: -89.41333}
+        - {x: 24.900024, y: 20.58667}
+        - {x: 11.900024, y: 90.58667}
+    - name: Lvl_Jade_Lands_47
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2076
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_48
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1983
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9400024, y: 32.160034}
+        - {x: -8.059998, y: 30.160034}
+        - {x: -18.059998, y: 23.160034}
+        - {x: -34.059998, y: 10.160034}
+        - {x: -34.059998, y: -25.839966}
+        - {x: -28.059998, y: -31.839966}
+        - {x: 34.940002, y: -31.839966}
+        - {x: 34.940002, y: -3.8399658}
+        - {x: 17.940002, y: 32.160034}
+    - name: Lvl_Jade_Lands_49
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1949
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.60663, y: 41.64673}
+        - {x: -53.60663, y: 7.6467285}
+        - {x: -53.60663, y: -37.35327}
+        - {x: -50.60663, y: -41.35327}
+        - {x: 55.39337, y: -41.35327}
+        - {x: 55.39337, y: -4.3532715}
+        - {x: -25.606628, y: 41.64673}
+    - name: Lvl_Jade_Lands_50
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2031
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_51
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2017
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_52
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2001
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1959
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1969
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1967
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_56
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1951
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1951
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1970
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_59
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1958
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_60
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1823
+        width: 331
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.880005, y: 38.12671}
+        - {x: -30.119995, y: 70.12671}
+        - {x: -141.12, y: 70.12671}
+        - {x: -141.12, y: -68.87329}
+        - {x: 142.88, y: -68.87329}
+        - {x: 142.88, y: -53.87329}
+        - {x: 61.880005, y: 22.126709}
+    - name: Lvl_Jade_Lands_61
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1923
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_62
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1789
+        width: 115
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.766663, y: 71.1134}
+        - {x: -48.766663, y: -69.8866}
+        - {x: 50.233337, y: -69.8866}
+        - {x: 50.233337, y: 71.1134}
+    - name: Lvl_Jade_Lands_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1830
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5466652, y: 40.100098}
+        - {x: -25.546665, y: 5.1000977}
+        - {x: -25.546665, y: -25.899902}
+        - {x: -22.546665, y: -35.899902}
+        - {x: -3.5466652, y: -38.899902}
+        - {x: 26.453335, y: -38.899902}
+        - {x: 26.453335, y: 0.100097656}
+        - {x: 20.453335, y: 40.100098}
+    - name: Lvl_Jade_Lands_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1873
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1858
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.866669, y: 27.993408}
+        - {x: -19.866669, y: -24.006592}
+        - {x: -12.866669, y: -27.006592}
+        - {x: 15.133331, y: -27.006592}
+        - {x: 20.133331, y: 2.9934082}
+        - {x: 20.133331, y: 27.993408}
+    - name: Lvl_Jade_Lands_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1837
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.593323, y: 37.073364}
+        - {x: -22.593323, y: 29.073364}
+        - {x: -22.593323, y: -35.926636}
+        - {x: 24.406677, y: -35.926636}
+        - {x: 24.406677, y: 37.073364}
+    - name: Lvl_Jade_Lands_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1877
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1863
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1855
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.06665, y: -21.56665}
+        - {x: -21.06665, y: -23.56665}
+        - {x: 19.93335, y: -23.56665}
+        - {x: 24.93335, y: -21.56665}
+        - {x: 24.93335, y: 25.43335}
+        - {x: -23.06665, y: 25.43335}
+    - name: Lvl_Jade_Lands_70
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1791
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.700012, y: -42.17993}
+        - {x: 28.700012, y: 42.82007}
+        - {x: -28.299988, y: 42.82007}
+        - {x: -28.299988, y: -42.17993}
+    - name: Lvl_Jade_Lands_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1856
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1847
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1839
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_74
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1825
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1727
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.093323, y: 44.206665}
+        - {x: -28.093323, y: -42.793335}
+        - {x: 29.906677, y: -42.793335}
+        - {x: 29.906677, y: 36.206665}
+        - {x: 28.906677, y: 44.206665}
+    - name: Lvl_Jade_Lands_76
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1727
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.119995, y: 48.206665}
+        - {x: 3.119995, y: 44.206665}
+        - {x: -15.880005, y: 30.206665}
+        - {x: -28.880005, y: -5.793335}
+        - {x: -28.880005, y: -46.793335}
+        - {x: 29.119995, y: -46.793335}
+        - {x: 29.119995, y: 48.206665}
+    - name: Lvl_Jade_Lands_77
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1713
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.433334, y: 35.76001}
+        - {x: -36.433334, y: 33.76001}
+        - {x: -36.433334, y: -34.23999}
+        - {x: 29.566666, y: -34.23999}
+        - {x: 36.566666, y: -17.23999}
+        - {x: 36.566666, y: 25.76001}
+        - {x: 14.566666, y: 35.76001}
+      - - {x: 29.566666, y: 23.76001}
+        - {x: 30.566666, y: 20.76001}
+        - {x: 33.566666, y: 20.76001}
+        - {x: 35.566666, y: 22.76001}
+        - {x: 34.566666, y: 25.76001}
+        - {x: 31.566666, y: 25.76001}
+      - - {x: 23.566666, y: 33.76001}
+        - {x: 22.566666, y: 31.76001}
+        - {x: 22.566666, y: 27.76001}
+        - {x: 24.566666, y: 26.76001}
+        - {x: 28.566666, y: 26.76001}
+        - {x: 29.566666, y: 29.76001}
+        - {x: 29.566666, y: 31.76001}
+        - {x: 27.566666, y: 33.76001}
+    - name: Lvl_Jade_Lands_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1743
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_79
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1787
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_80
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1672
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.286652, y: 53.273315}
+        - {x: -34.28665, y: 41.273315}
+        - {x: -34.28665, y: -33.726685}
+        - {x: -15.286652, y: -51.726685}
+        - {x: 15.713348, y: -51.726685}
+        - {x: 34.71335, y: -39.726685}
+        - {x: 34.71335, y: 49.273315}
+        - {x: 28.713348, y: 53.273315}
+    - name: Lvl_Jade_Lands_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1763
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_82
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1695
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1695
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1695
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_85
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1407
+        width: 130
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.200012, y: 60.640015}
+        - {x: 56.200012, y: 147.64001}
+        - {x: 24.200012, y: 147.64001}
+        - {x: 21.200012, y: 138.64001}
+        - {x: -21.799988, y: 147.64001}
+        - {x: -55.799988, y: 147.64001}
+        - {x: -55.799988, y: -146.35999}
+        - {x: 56.200012, y: -146.35999}
+        - {x: 56.200012, y: 7.6400146}
+        - {x: 54.200012, y: 8.640015}
+    - name: Lvl_Jade_Lands_86
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1406
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.84668, y: -66.71326}
+        - {x: 27.84668, y: 6.286743}
+        - {x: 14.84668, y: 2.2867432}
+        - {x: 19.84668, y: 148.28674}
+        - {x: -95.15332, y: 148.28674}
+        - {x: -95.15332, y: -146.71326}
+        - {x: 95.84668, y: -146.71326}
+        - {x: 95.84668, y: -110.71326}
+        - {x: 35.84668, y: -95.71326}
+    - name: Lvl_Jade_Lands_87
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1413
+        width: 107
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.58667, y: 150.26001}
+        - {x: -45.58667, y: -68.73999}
+        - {x: -41.58667, y: -148.73999}
+        - {x: 43.41333, y: -148.73999}
+        - {x: 46.41333, y: -35.73999}
+        - {x: 46.41333, y: 150.26001}
+    - name: Lvl_Jade_Lands_88
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1665
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_89
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1503
+        width: 150
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.00668, y: 77.06006}
+        - {x: -63.993317, y: 77.06006}
+        - {x: -63.993317, y: -75.93994}
+        - {x: 65.00668, y: -75.93994}
+    - name: Lvl_Jade_Lands_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1653
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1656
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_92
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1658
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_93
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1659
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1660
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_95
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1656
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_96
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1644
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_97
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1655
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_98
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1649
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1646
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1652
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1647
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_102
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1647
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_103
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1515
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_104
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1513
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.400002, y: -11.906616}
+        - {x: 34.4, y: -1.9066162}
+        - {x: 34.4, y: 20.093384}
+        - {x: 26.400002, y: 36.093384}
+        - {x: 17.400002, y: 38.093384}
+        - {x: -33.6, y: 38.093384}
+        - {x: -33.6, y: -37.906616}
+        - {x: 26.400002, y: -37.906616}
+        - {x: 34.4, y: -35.906616}
+        - {x: 34.4, y: -29.906616}
+        - {x: 21.400002, y: -28.906616}
+    - name: Lvl_Jade_Lands_105
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1517
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_106
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1518
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1511
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.113327, y: -47.11328}
+        - {x: -42.113327, y: -49.11328}
+        - {x: -42.113327, y: -51.11328}
+        - {x: -41.113327, y: -52.11328}
+        - {x: -29.113327, y: -52.11328}
+        - {x: -29.113327, y: -49.11328}
+        - {x: -30.113327, y: -47.11328}
+      - - {x: -14.113327, y: 52.88672}
+        - {x: -43.113327, y: 31.886719}
+        - {x: -43.113327, y: -4.1132812}
+        - {x: -22.113327, y: -21.113281}
+        - {x: -16.113327, y: -21.113281}
+        - {x: -30.113327, y: -47.11328}
+        - {x: -30.113327, y: -52.11328}
+        - {x: 43.886673, y: -52.11328}
+        - {x: 43.886673, y: 34.88672}
+        - {x: 18.886673, y: 52.88672}
+    - name: Lvl_Jade_Lands_108
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1503
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.32666, y: -30.939941}
+        - {x: 24.32666, y: -33.93994}
+        - {x: 44.32666, y: -19.939941}
+        - {x: 65.32666, y: -0.9399414}
+        - {x: 65.32666, y: 41.06006}
+        - {x: 46.32666, y: 54.06006}
+        - {x: -47.67334, y: 54.06006}
+        - {x: -63.67334, y: 5.0600586}
+        - {x: -63.67334, y: -52.93994}
+        - {x: 65.32666, y: -52.93994}
+        - {x: 65.32666, y: -41.93994}
+        - {x: 57.32666, y: -24.939941}
+        - {x: 31.32666, y: -30.939941}
+        - {x: 25.32666, y: -34.93994}
+      - - {x: -31.67334, y: 11.060059}
+        - {x: -33.67334, y: 9.060059}
+        - {x: -33.67334, y: 3.0600586}
+        - {x: -26.67334, y: 3.0600586}
+        - {x: -26.67334, y: 10.060059}
+        - {x: -28.67334, y: 11.060059}
+    - name: Lvl_Jade_Lands_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1511
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_110
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1510
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_111
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1379
+        width: 101
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.113327, y: 54.246704}
+        - {x: -15.113327, y: 52.246704}
+        - {x: -43.113327, y: 21.246704}
+        - {x: -43.113327, y: -55.753296}
+        - {x: 43.886673, y: -55.753296}
+        - {x: 43.886673, y: 45.246704}
+        - {x: 25.886673, y: 54.246704}
+      - - {x: -41.113327, y: -46.753296}
+        - {x: -42.113327, y: -49.753296}
+        - {x: -41.113327, y: -52.753296}
+        - {x: -36.113327, y: -53.753296}
+        - {x: -30.113327, y: -53.753296}
+        - {x: -29.113327, y: -51.753296}
+        - {x: -29.113327, y: -47.753296}
+        - {x: -30.113327, y: -46.753296}
+      - - {x: -18.113327, y: 57.246704}
+        - {x: -18.113327, y: 54.246704}
+        - {x: -17.113327, y: 52.246704}
+        - {x: -13.113327, y: 52.246704}
+        - {x: -11.113327, y: 54.246704}
+        - {x: -11.113327, y: 56.246704}
+        - {x: -12.113327, y: 57.246704}
+      - - {x: -9.113327, y: 54.246704}
+        - {x: -7.113327, y: 52.246704}
+        - {x: -4.113327, y: 53.246704}
+        - {x: -4.113327, y: 56.246704}
+        - {x: -5.113327, y: 57.246704}
+        - {x: -9.113327, y: 57.246704}
+    - name: Lvl_Jade_Lands_112
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1506
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1407
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.686665, y: 38.640015}
+        - {x: -31.686665, y: -37.359985}
+        - {x: 30.313335, y: -37.359985}
+        - {x: 33.313335, y: -36.359985}
+        - {x: 33.313335, y: 31.640015}
+        - {x: 18.313335, y: 38.640015}
+    - name: Lvl_Jade_Lands_114
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_115
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1438
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_116
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1372
+        width: 21
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_117
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1453
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_118
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1424
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_119
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1424
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_120
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1409
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_121
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1407
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_122
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1412
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_123
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1387
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_124
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1389
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_125
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1383
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_126
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1382
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_127
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1361
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_128
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1363
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_129
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1351
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_130
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1183
+        width: 98
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.926636, y: 84.99335}
+        - {x: -41.926636, y: -84.00665}
+        - {x: 43.073364, y: -84.00665}
+        - {x: 43.073364, y: 84.99335}
+    - name: Lvl_Jade_Lands_131
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_132
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1312
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.733337, y: 22.573364}
+        - {x: -9.266663, y: 22.573364}
+        - {x: -23.266663, y: 17.573364}
+        - {x: -23.266663, y: -14.426636}
+        - {x: -21.266663, y: -21.426636}
+        - {x: -20.266663, y: -21.426636}
+        - {x: -16.266663, y: -19.426636}
+        - {x: -12.266663, y: -16.426636}
+        - {x: -10.266663, y: -19.426636}
+        - {x: -7.2666626, y: -21.426636}
+        - {x: 18.733337, y: -21.426636}
+        - {x: 24.733337, y: -15.426636}
+        - {x: 24.733337, y: 5.5733643}
+    - name: Lvl_Jade_Lands_133
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1312
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.3466797, y: 18.573364}
+        - {x: -14.34668, y: 0.57336426}
+        - {x: -19.34668, y: -9.426636}
+        - {x: -19.34668, y: -17.426636}
+        - {x: 18.65332, y: -17.426636}
+        - {x: 20.65332, y: -14.426636}
+        - {x: 20.65332, y: 18.573364}
+    - name: Lvl_Jade_Lands_134
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 991
+        width: 236
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.313354, y: 122.15338}
+        - {x: 46.313354, y: 148.15338}
+        - {x: 22.313354, y: 157.15338}
+        - {x: -11.6866455, y: 157.15338}
+        - {x: -56.686646, y: 17.153381}
+        - {x: -100.686646, y: -102.84662}
+        - {x: -100.686646, y: -121.84662}
+        - {x: -99.686646, y: -125.84662}
+        - {x: -11.6866455, y: -155.84662}
+        - {x: 5.3133545, y: -155.84662}
+        - {x: 10.3133545, y: -153.84662}
+        - {x: 38.313354, y: -54.84662}
+        - {x: 55.313354, y: -29.846619}
+        - {x: 102.313354, y: 108.15338}
+    - name: Lvl_Jade_Lands_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 770
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 212.45334, y: -3.0066528}
+        - {x: 213.45334, y: -42.006653}
+        - {x: 214.45334, y: -43.006653}
+        - {x: 277.45334, y: -43.006653}
+        - {x: 278.45334, y: -42.006653}
+        - {x: 278.45334, y: -0.006652832}
+        - {x: 291.45334, y: 1.9933472}
+        - {x: 295.45334, y: -2.0066528}
+        - {x: 295.45334, y: -42.006653}
+        - {x: 296.45334, y: -43.006653}
+        - {x: 329.45334, y: -43.006653}
+        - {x: 329.45334, y: 43.993347}
+        - {x: -328.54666, y: 43.993347}
+        - {x: -328.54666, y: -43.006653}
+        - {x: 195.45334, y: -43.006653}
+        - {x: 196.45334, y: -42.006653}
+        - {x: 196.45334, y: -0.006652832}
+        - {x: 206.45334, y: 3.9933472}
+    - name: Lvl_Jade_Lands_136
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1087
+        width: 120
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.32666, y: 93.073364}
+        - {x: -51.32666, y: 63.073364}
+        - {x: -51.32666, y: -46.926636}
+        - {x: -42.32666, y: -91.926636}
+        - {x: 37.67334, y: -91.926636}
+        - {x: 48.67334, y: -83.926636}
+        - {x: 48.67334, y: 14.073364}
+        - {x: 38.67334, y: 93.073364}
+      - - {x: 47.67334, y: -47.926636}
+        - {x: 47.67334, y: -50.926636}
+        - {x: 49.67334, y: -52.926636}
+        - {x: 51.67334, y: -51.926636}
+        - {x: 51.67334, y: -47.926636}
+        - {x: 50.67334, y: -46.926636}
+    - name: Lvl_Jade_Lands_137
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1131
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 492
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -10.346619}
+        - {x: 106, y: -17.346619}
+        - {x: 104, y: -20.346619}
+        - {x: 105, y: -20.346619}
+        - {x: 104, y: -18.346619}
+        - {x: 102, y: -11.346619}
+        - {x: -5, y: 48.65338}
+        - {x: -43, y: 47.65338}
+        - {x: -45, y: 31.653381}
+        - {x: -41, y: 29.653381}
+        - {x: -44, y: 26.653381}
+        - {x: -53, y: 42.65338}
+        - {x: -59, y: 54.65338}
+        - {x: -141, y: 54.65338}
+        - {x: -210, y: 19.653381}
+        - {x: -210, y: -53.34662}
+        - {x: 210, y: -53.34662}
+        - {x: 210, y: -46.34662}
+        - {x: 118, y: 3.6533813}
+      - - {x: 51, y: 24.653381}
+        - {x: 41, y: 18.653381}
+        - {x: 39, y: 14.653381}
+        - {x: 39, y: 7.6533813}
+        - {x: 55, y: -2.3466187}
+        - {x: 61, y: -2.3466187}
+        - {x: 66, y: -0.34661865}
+        - {x: 71, y: 8.653381}
+        - {x: 71, y: 21.653381}
+        - {x: 65, y: 24.653381}
+      - - {x: -69, y: 54.65338}
+        - {x: -66, y: 47.65338}
+        - {x: -55, y: 47.65338}
+        - {x: -51, y: 51.65338}
+        - {x: -51, y: 54.65338}
+    - name: Lvl_Jade_Lands_139
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1110
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_140
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 991
+        width: 333
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.860016, y: 4.6533813}
+        - {x: 98.860016, y: 3.6533813}
+        - {x: 15.860016, y: 58.65338}
+        - {x: 5.860016, y: 58.65338}
+        - {x: -23.139984, y: 37.65338}
+        - {x: -87.139984, y: -2.3466187}
+        - {x: -142.13998, y: -48.34662}
+        - {x: -142.13998, y: -57.34662}
+        - {x: 142.86002, y: -57.34662}
+        - {x: 142.86002, y: -29.346619}
+        - {x: 127.860016, y: -7.3466187}
+    - name: Lvl_Jade_Lands_141
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1092
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_142
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 991
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.733337, y: 44.15338}
+        - {x: -41.733337, y: -42.84662}
+        - {x: 42.266663, y: -42.84662}
+        - {x: 42.266663, y: 44.15338}
+    - name: Lvl_Jade_Lands_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 569
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 13.186707}
+        - {x: -45, y: 55.186707}
+        - {x: -169, y: 55.186707}
+        - {x: -178, y: 53.186707}
+        - {x: -200, y: 32.186707}
+        - {x: -243, y: -17.813293}
+        - {x: -243, y: -36.813293}
+        - {x: -205, y: -54.813293}
+        - {x: 243, y: -54.813293}
+        - {x: 243, y: -16.813293}
+        - {x: 129, y: 34.186707}
+      - - {x: -243, y: -22.813293}
+        - {x: -240, y: -22.813293}
+        - {x: -236, y: -19.813293}
+        - {x: -237, y: -16.813293}
+        - {x: -243, y: -16.813293}
+      - - {x: -5, y: 20.186707}
+        - {x: -1, y: 18.186707}
+        - {x: 19, y: 18.186707}
+        - {x: 19, y: 23.186707}
+        - {x: 17, y: 30.186707}
+        - {x: 13, y: 33.186707}
+        - {x: -1, y: 33.186707}
+        - {x: -5, y: 32.186707}
+      - - {x: -179, y: 46.186707}
+        - {x: -181, y: 42.186707}
+        - {x: -181, y: 32.186707}
+        - {x: -175, y: 28.186707}
+        - {x: -165, y: 28.186707}
+        - {x: -165, y: 44.186707}
+        - {x: -166, y: 46.186707}
+    - name: Lvl_Jade_Lands_144
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 891
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_145
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 735
+        width: 606
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 207.58667, y: -47.299988}
+        - {x: 121.58667, y: 6.700012}
+        - {x: 60.58667, y: -30.299988}
+        - {x: 54.58667, y: -13.299988}
+        - {x: 4.58667, y: 27.700012}
+        - {x: -40.41333, y: 7.700012}
+        - {x: -120.41333, y: 85.70001}
+        - {x: -129.41333, y: 85.70001}
+        - {x: -165.41333, y: 17.700012}
+        - {x: -201.41333, y: -12.299988}
+        - {x: -258.41333, y: -81.29999}
+        - {x: -258.41333, y: -85.29999}
+        - {x: 259.58667, y: -85.29999}
+        - {x: 259.58667, y: -77.29999}
+        - {x: 254.58667, y: -67.29999}
+    - name: Lvl_Jade_Lands_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 569
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 212, y: 27.619995}
+        - {x: 164, y: 55.619995}
+        - {x: 24, y: 55.619995}
+        - {x: -130, y: 32.619995}
+        - {x: -243, y: -18.380005}
+        - {x: -243, y: -55.380005}
+        - {x: 196, y: -55.380005}
+        - {x: 197, y: -54.380005}
+        - {x: 243, y: -40.380005}
+        - {x: 243, y: -26.380005}
+      - - {x: 235, y: -18.380005}
+        - {x: 236, y: -21.380005}
+        - {x: 239, y: -22.380005}
+        - {x: 242, y: -22.380005}
+        - {x: 243, y: -20.380005}
+        - {x: 242, y: -17.380005}
+        - {x: 237, y: -16.380005}
+      - - {x: -16, y: 33.619995}
+        - {x: -19, y: 30.619995}
+        - {x: -20, y: 24.619995}
+        - {x: -20, y: 19.619995}
+        - {x: -19, y: 18.619995}
+        - {x: -8, y: 18.619995}
+        - {x: 3, y: 20.619995}
+        - {x: 3, y: 33.619995}
+      - - {x: 163, y: 46.619995}
+        - {x: 163, y: 28.619995}
+        - {x: 176, y: 28.619995}
+        - {x: 180, y: 33.619995}
+        - {x: 180, y: 38.619995}
+        - {x: 177, y: 46.619995}
+    - name: Lvl_Jade_Lands_147
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 722
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_148
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 383
+        width: 167
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.00659, y: 159.82666}
+        - {x: -64.00659, y: 158.82666}
+        - {x: -64.00659, y: 28.82666}
+        - {x: -66.00659, y: 28.82666}
+        - {x: -68.00659, y: 26.82666}
+        - {x: -68.00659, y: 13.82666}
+        - {x: -67.00659, y: 11.82666}
+        - {x: -65.00659, y: 10.82666}
+        - {x: -68.00659, y: -55.17334}
+        - {x: -70.00659, y: -57.17334}
+        - {x: -70.00659, y: -131.17334}
+        - {x: -71.00659, y: -132.17334}
+        - {x: -71.00659, y: -158.17334}
+        - {x: 71.99341, y: -158.17334}
+        - {x: 71.99341, y: 159.82666}
+    - name: Lvl_Jade_Lands_149
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 447
+        width: 29
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_150
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 447
+        width: 27
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_151
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 551
+        width: 210
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.09338, y: -6.313324}
+        - {x: -31.906616, y: 57.686676}
+        - {x: -54.906616, y: 57.686676}
+        - {x: -89.90662, y: 32.686676}
+        - {x: -89.90662, y: 7.686676}
+        - {x: -60.906616, y: -57.313324}
+        - {x: 66.09338, y: -57.313324}
+        - {x: 84.09338, y: -50.313324}
+        - {x: 90.09338, y: -40.313324}
+        - {x: 90.09338, y: -24.313324}
+    - name: Lvl_Jade_Lands_152
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 447
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.366669, y: 27.440002}
+        - {x: -30.366669, y: -5.5599976}
+        - {x: -30.366669, y: -26.559998}
+        - {x: 30.633331, y: -26.559998}
+        - {x: 30.633331, y: 0.44000244}
+        - {x: -0.3666687, y: 27.440002}
+    - name: Lvl_Jade_Lands_153
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 287
+        width: 493
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.54004, y: 7.9066772}
+        - {x: -8.459961, y: -1.0933228}
+        - {x: -50.45996, y: 22.906677}
+        - {x: -164.45996, y: 86.90668}
+        - {x: -178.45996, y: 86.90668}
+        - {x: -210.45996, y: 16.906677}
+        - {x: -210.45996, y: 3.9066772}
+        - {x: -201.45996, y: -17.093323}
+        - {x: -162.45996, y: -85.09332}
+        - {x: 210.54004, y: -85.09332}
+        - {x: 210.54004, y: -78.09332}
+        - {x: 205.54004, y: -68.09332}
+    - name: Lvl_Jade_Lands_154
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 319
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.326664, y: 49.21335}
+        - {x: -24.326664, y: -4.7866516}
+        - {x: -24.326664, y: -48.78665}
+        - {x: 24.673336, y: -48.78665}
+        - {x: 24.673336, y: 0.21334839}
+        - {x: 21.673336, y: 49.21335}
+    - name: Lvl_Jade_Lands_155
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_156
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 351
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.706665, y: 18.52002}
+        - {x: -26.706665, y: -3.4799805}
+        - {x: -26.706665, y: -11.47998}
+        - {x: -19.706665, y: -17.47998}
+        - {x: 9.293335, y: -17.47998}
+        - {x: 26.293335, y: -14.47998}
+        - {x: 27.293335, y: -13.47998}
+        - {x: 27.293335, y: 14.52002}
+        - {x: 13.293335, y: 18.52002}
+    - name: Lvl_Jade_Lands_157
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 190
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.14, y: 52.63333}
+        - {x: -67.14, y: -7.3666687}
+        - {x: -31.14, y: -52.36667}
+        - {x: 36.86, y: -52.36667}
+        - {x: 67.86, y: -7.3666687}
+        - {x: 67.86, y: 49.63333}
+        - {x: 63.86, y: 52.63333}
+    - name: Lvl_Jade_Lands_158
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 298
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_159
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 302
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_160
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 301
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_161
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 299
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_162
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 299
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_163
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 294
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_164
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 279
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_165
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 287
+        width: 88
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_166
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 278
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_167
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 254
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_169
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 203
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_170
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 190
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_171
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 190
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lvl_Jade_Lands_172
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 31
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.25333, y: 69.95334}
+        - {x: -96.25333, y: -69.04666}
+        - {x: 97.74667, y: -69.04666}
+        - {x: 97.74667, y: 69.95334}
+    - name: Lvl_Jade_Lands_173
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 31
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.49335, y: 69.95334}
+        - {x: -96.49335, y: -69.04666}
+        - {x: 97.50665, y: -69.04666}
+        - {x: 97.50665, y: 69.95334}
+    - name: Lvl_Jade_Lands_174
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 31
+        width: 227
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.89331, y: 69.95334}
+        - {x: -84.89331, y: 67.95334}
+        - {x: -94.89331, y: 66.95334}
+        - {x: -96.89331, y: 64.95334}
+        - {x: -96.89331, y: -69.04666}
+        - {x: 97.10669, y: -69.04666}
+        - {x: 97.10669, y: 69.95334}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

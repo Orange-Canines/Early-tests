@@ -8,7 +8,7 @@ public class FireWall : MonoBehaviour {
     void OnCollisionEnter2D(Collision2D collision)
     {
         
-        if (collision.gameObject.tag == "Fireball")
+        if (collision.gameObject.tag == "Wall")
         {
             //Destroy(gameObject);
             anim = GetComponent<Animator>();
@@ -16,7 +16,25 @@ public class FireWall : MonoBehaviour {
             StartCoroutine(Explode());
                
         }
+
+        if (collision.gameObject.tag == "Hero")
+        {
+            //Destroy(gameObject);
+            anim = GetComponent<Animator>();
+            anim.SetInteger("State", 1);
+            StartCoroutine(Explode());
+
+        }
+
+
+
+
     }
+
+
+
+
+
 
     IEnumerator Explode()
     {

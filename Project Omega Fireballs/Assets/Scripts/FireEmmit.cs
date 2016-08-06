@@ -9,11 +9,12 @@ public class FireEmmit : MonoBehaviour {
     private float min = -6.0f;
     private float max = 6.0f;
     private float StartY = 8.0f;
-    private int Timer = 200;
+    private int Timer = 100;
     private int i = 0;
+    private int timer_time = 200;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 
     }
 	
@@ -30,11 +31,16 @@ public class FireEmmit : MonoBehaviour {
             }
             if(StartY > 15)
             {
-                Timer = 150;
+                Timer = 5;
+                //if (timer_time < 40)
+                   // timer_time -= 30;
             }
             if(StartY > 25)
             {
-                Timer = 100;
+                Timer = 5;
+               // if (timer_time < 40)
+                  //  timer_time -= 30;
+                  
             }           
         }
         i++;  
