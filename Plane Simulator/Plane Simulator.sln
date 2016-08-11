@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plane Simulator.CSharp", "Plane Simulator.CSharp.csproj", "{5F363ED0-A08D-67B1-192F-92254F9C81AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F363ED0-A08D-67B1-192F-92254F9C81AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F363ED0-A08D-67B1-192F-92254F9C81AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F363ED0-A08D-67B1-192F-92254F9C81AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F363ED0-A08D-67B1-192F-92254F9C81AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

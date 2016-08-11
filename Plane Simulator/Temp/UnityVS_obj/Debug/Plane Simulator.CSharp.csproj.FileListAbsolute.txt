@@ -1,0 +1,13 @@
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
+C:\Users\ASUS1\Desktop\Repository\Early-tests\Plane Simulator\Temp\UnityVS_obj\Debug\Plane Simulator.CSharp.csprojResolveAssemblyReference.cache

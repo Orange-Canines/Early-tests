@@ -12,7 +12,8 @@ public class FireEmmit : MonoBehaviour {
     private int Timer = 100;
     private int i = 0;
     private int timer_time = 200;
-
+    private GameObject[] getCount;
+    private int count; 
     // Use this for initialization
     void Start () {
 
@@ -22,8 +23,14 @@ public class FireEmmit : MonoBehaviour {
 	void Update ()
     {
         if (i == Timer) {
-            location = new Vector3(UnityEngine.Random.Range(min, max), StartY, 0);
-            Instantiate(Fireball, location, rot);
+
+            getCount = GameObject.FindGameObjectsWithTag("People");
+            count = getCount.Length;
+            if (count < 5)
+            {
+                location = new Vector3(UnityEngine.Random.Range(min, max), StartY, 0);
+                Instantiate(Fireball, location, rot);
+            }
             i = 0;
             if(StartY < 30)
             {
